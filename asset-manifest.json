@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/AFcodCloud/sapper/static/css/main.d6bf13ad.chunk.css",
+    "main.css": "/AFcodCloud/sapper/static/css/main.3c4f993d.chunk.css",
     "main.js": "/AFcodCloud/sapper/static/js/main.aced5320.chunk.js",
     "main.js.map": "/AFcodCloud/sapper/static/js/main.aced5320.chunk.js.map",
     "runtime-main.js": "/AFcodCloud/sapper/static/js/runtime-main.5ac6f94d.js",
@@ -8,16 +8,16 @@
     "static/js/2.c89eec60.chunk.js": "/AFcodCloud/sapper/static/js/2.c89eec60.chunk.js",
     "static/js/2.c89eec60.chunk.js.map": "/AFcodCloud/sapper/static/js/2.c89eec60.chunk.js.map",
     "index.html": "/AFcodCloud/sapper/index.html",
-    "precache-manifest.094b966d622f5d72d9c72299bf182fbc.js": "/AFcodCloud/sapper/precache-manifest.094b966d622f5d72d9c72299bf182fbc.js",
+    "precache-manifest.2bee4a4faed0b005b9a27c8270d99438.js": "/AFcodCloud/sapper/precache-manifest.2bee4a4faed0b005b9a27c8270d99438.js",
     "service-worker.js": "/AFcodCloud/sapper/service-worker.js",
-    "static/css/main.d6bf13ad.chunk.css.map": "/AFcodCloud/sapper/static/css/main.d6bf13ad.chunk.css.map",
+    "static/css/main.3c4f993d.chunk.css.map": "/AFcodCloud/sapper/static/css/main.3c4f993d.chunk.css.map",
     "static/js/2.c89eec60.chunk.js.LICENSE.txt": "/AFcodCloud/sapper/static/js/2.c89eec60.chunk.js.LICENSE.txt",
     "static/media/index.css": "/AFcodCloud/sapper/static/media/win.1331eb28.png"
   },
   "entrypoints": [
     "static/js/runtime-main.5ac6f94d.js",
     "static/js/2.c89eec60.chunk.js",
-    "static/css/main.d6bf13ad.chunk.css",
+    "static/css/main.3c4f993d.chunk.css",
     "static/js/main.aced5320.chunk.js"
   ]
 }

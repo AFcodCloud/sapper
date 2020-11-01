@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "23b98674ae3db57bc90abf7b34f725d3",
+    "revision": "cfaa9013a190433008fe1f89a44ac93e",
     "url": "/AFcodCloud/sapper/index.html"
   },
   {
-    "revision": "4fa90d33c1f67243a79c",
-    "url": "/AFcodCloud/sapper/static/css/main.d6bf13ad.chunk.css"
+    "revision": "3d3012df011d555e8f06",
+    "url": "/AFcodCloud/sapper/static/css/main.3c4f993d.chunk.css"
   },
   {
     "revision": "7496173844425fcb8c96",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AFcodCloud/sapper/static/js/2.c89eec60.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4fa90d33c1f67243a79c",
+    "revision": "3d3012df011d555e8f06",
     "url": "/AFcodCloud/sapper/static/js/main.aced5320.chunk.js"
   },
   {
