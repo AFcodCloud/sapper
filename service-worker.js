@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/AFcodCloud/sapper/precache-manifest.2bee4a4faed0b005b9a27c8270d99438.js"
+  "/AFcodCloud/sapper/precache-manifest.d5640814c1b594dc5d60c5bcef13e303.js"
 );
 
 self.addEventListener('message', (event) => {
